@@ -1,56 +1,56 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-09-30T05:28:25.749Z",
+  "updated_at": "2026-10-31T05:24:07.372Z",
   "stats": {
-    "total_hours": 41.71,
-    "daily_avg": 5.96,
+    "total_hours": 27.03,
+    "daily_avg": 3.86,
     "trend": "falling",
     "max_day": {
-      "date": "2026-09-24",
-      "hours": 9.31,
-      "text": "9 hrs 18 mins"
+      "date": "2026-10-26",
+      "hours": 6.23,
+      "text": "6 hrs 13 mins"
     }
   },
   "days": [
     {
-      "date": "2026-09-24",
-      "hours": 9.31,
-      "text": "9 hrs 18 mins"
+      "date": "2026-10-25",
+      "hours": 0.79,
+      "text": "47 mins"
     },
     {
-      "date": "2026-09-25",
-      "hours": 8.17,
-      "text": "8 hrs 10 mins"
+      "date": "2026-10-26",
+      "hours": 6.23,
+      "text": "6 hrs 13 mins"
     },
     {
-      "date": "2026-09-26",
-      "hours": 3.16,
-      "text": "3 hrs 9 mins"
+      "date": "2026-10-27",
+      "hours": 5.21,
+      "text": "5 hrs 12 mins"
     },
     {
-      "date": "2026-09-27",
-      "hours": 0,
-      "text": "0 secs"
+      "date": "2026-10-28",
+      "hours": 4.64,
+      "text": "4 hrs 38 mins"
     },
     {
-      "date": "2026-09-28",
-      "hours": 9.1,
-      "text": "9 hrs 5 mins"
+      "date": "2026-10-29",
+      "hours": 4.24,
+      "text": "4 hrs 14 mins"
     },
     {
-      "date": "2026-09-29",
-      "hours": 9.23,
-      "text": "9 hrs 13 mins"
+      "date": "2026-10-30",
+      "hours": 5.82,
+      "text": "5 hrs 49 mins"
     },
     {
-      "date": "2026-09-30",
-      "hours": 2.74,
-      "text": "2 hrs 44 mins"
+      "date": "2026-10-31",
+      "hours": 0.1,
+      "text": "6 mins"
     }
   ],
   "ai": {
-    "title": "火力全开",
-    "quote": "键盘都在喊累，但你的 Commit 还在飞。",
-    "tarot": "⚡ The Magician (魔术师)",
-    "theme_color": "#f5af19"
+    "title": "渐入佳境",
+    "quote": "保持节奏，每一行代码都是通往赛博朋克的砖瓦。",
+    "tarot": "🌱 The Empress (皇后)",
+    "theme_color": "#80ed99"
   }
 };
